@@ -12,8 +12,8 @@
   firebase.initializeApp(config);
 
 //   Variables
+var trainName = "";
 
-  var trainName = "";
   var destination = "";
   var frequency = 0;
   var time = "";
